@@ -20,7 +20,7 @@
 
     <div class="com">SingUP!</div>
     <br>
-    <div class="singUp"><p><a href="com_singUp.php">company</a>or<a href="m_singUp.php">member</a></p></div>
+    <div class="singUp"><p><a href="./company/singUp.php">Company</a>or<a href="./menber/singUp.php">Member</a></p></div>
 
 </div>
 
@@ -28,5 +28,5 @@
 
 
 
-
-<?php require './footer.php'; ?>
+</body>
+</html>
